@@ -13,7 +13,7 @@ Compete to beat your high score!
 
 # Technologies Used
 HTML
-CSS
+CSS and 
 JavaScript
 
 # Getting Started
