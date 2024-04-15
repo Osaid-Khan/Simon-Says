@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+
+.outer-div {
+    display: flex;
+    justify-content: center;
+}
+
+.inner-divs {
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    background-color: beige;
+    border-radius: 20%;
+    margin: 2.5rem;
+}
+
+.yellow {
+    background-color: #f99b45;
+}
+
+
+
+.red {
+    background-color: #d95980;
+    
+}
+
+.purple {
+    background-color: #819ff9;
+}
+
+.green {
+    background-color: #63aac0;
+}
